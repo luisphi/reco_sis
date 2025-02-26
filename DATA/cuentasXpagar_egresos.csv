@@ -1,0 +1,527 @@
+"id_condominio","id_cxp","categoria","cuenta_contable","detalle","fecha","fechavencimiento","valor","saldo","fecha_pago","valor_pago","diff_fecha_menos_pago"
+388,60489,Egresos Comunes,Consumo Teléfono,Pago factura consumo telefonico,2019-01-01,2019-01-30,16.80,0.00,2019-01-18,16.80,17
+457,60467,Egresos Comunes,Servicios de Guardianía,Alianza Monitoreo,2019-01-01,2019-01-18,280.00,0.00,2019-01-18,280.00,17
+457,60466,Egresos Comunes,Mantenimiento de Ascensor,Mantenimiento ascensores ,2019-01-01,2019-01-18,202.05,0.00,2019-01-17,202.05,16
+457,60463,Egresos Comunes,Aporte Patronal,IESS,2019-01-01,2019-01-18,92.88,0.00,2019-01-14,92.88,13
+457,60462,Egresos Comunes,Aporte Patronal,IESS,2019-01-01,2019-01-18,162.10,0.00,2019-01-14,162.10,13
+457,60461,Egresos Comunes,Consumo de Gas Centralizado,Gas comunal,2019-01-01,2019-01-18,107.95,0.00,2019-01-14,107.95,13
+457,60457,Egresos Comunes,Sueldos Personal,Sueldo conserje,2019-01-01,2019-01-18,308.26,0.00,2019-01-10,308.26,9
+457,60455,Egresos Comunes,Material de limpieza,Material de limpieza,2019-01-01,2019-01-18,34.72,0.00,2019-01-10,34.72,9
+457,60454,Egresos Comunes,Canasta Navideña,Canastas navideñas,2019-01-01,2019-01-18,40.00,0.00,2019-01-09,40.00,8
+457,60452,Egresos Comunes,Administración,Administración ,2019-01-01,2019-01-18,250.00,0.00,2019-01-08,250.00,7
+457,60451,Egresos Comunes,Servicios de Guardianía,Alianza Monitoreo,2019-01-01,2019-01-15,280.00,0.00,2019-01-08,280.00,7
+457,60447,Egresos Comunes,Décimo tercer sueldo,Pago décimo tercer sueldo,2019-01-01,2019-01-15,476.00,0.00,2019-01-07,476.00,6
+457,60445,Egresos Comunes,Mantenimiento de Ascensor,Mantenimiento de ascensores,2019-01-01,2019-01-15,202.05,0.00,2019-01-03,202.05,2
+457,60444,Egresos Comunes,Agua potable,Pago de agua comunal,2019-01-01,2019-01-15,7.17,0.00,2019-01-03,7.17,2
+443,60438,Egresos Comunes,Servicios de Guardianía,Seguridad del mes de diciembre 2018,2019-01-01,2019-01-21,813.12,0.00,2019-01-18,813.12,17
+390,60220,Egresos Comunes,Prestamos Quirografarios,Planilla de préstamos quirografarios correspondiente a dic-2018,2019-01-01,2019-01-15,52.31,0.00,2019-01-15,52.31,14
+390,60219,Egresos Comunes,Pintura del Conjunto,"4to. abono para pintura externa del Conjunto (Torre de Departamentos)",2019-01-01,2019-01-15,5000.00,0.00,2019-01-15,5000.00,14
+200,64779,Egresos Comunes,Movilizacion,movilizacion mes de enero,2019-01-01,2019-01-31,70.00,0.00,2019-02-15,70.00,45
+208,61943,Egresos Comunes,Bonificaciones,Bonificación del mes de Enero 2019. ,2019-01-01,2019-01-31,131.33,0.00,2019-01-30,131.33,29
+208,59516,Egresos Comunes,Sueldos,Anticipo quincenal mes de Enero/2019. ,2019-01-01,2019-01-15,200.00,0.00,2019-01-15,200.00,14
+208,61941,Egresos Comunes,Bonificaciones,Bonificación del mes de Enero 2019. ,2019-01-01,2019-01-31,131.33,0.00,2019-01-30,131.33,29
+208,61940,Egresos Comunes,Bonificaciones,Bonificación del mes de Enero 2019. ,2019-01-01,2019-01-31,131.33,0.00,2019-01-30,131.33,29
+208,61935,Egresos Comunes,Sueldos,Cancelación del sueldo del mes de Enero/2019. ,2019-01-01,2019-01-31,180.53,0.00,2019-01-30,180.53,29
+208,61934,Egresos Comunes,Sueldos,Cancelación del sueldo del mes de Enero/2019. ,2019-01-01,2019-01-31,146.71,0.00,2019-01-30,146.71,29
+208,61933,Egresos Comunes,Sueldos,Cancelación del sueldo del mes de Enero/2019. ,2019-01-01,2019-01-31,183.51,0.00,2019-01-30,183.51,29
+208,61932,Egresos Comunes,Fondos de Reserva,Fondo de reserva del mes de Enero del 2019. ,2019-01-01,2019-01-31,35.28,0.00,2019-01-30,35.28,29
+208,61931,Egresos Comunes,Fondos de Reserva,Fondo de reserva del mes de Enero del 2019. ,2019-01-01,2019-01-31,35.28,0.00,2019-01-30,35.28,29
+208,61929,Egresos Comunes,Décimo tercer sueldo,Décimo  tercer sueldo mes de Enero/2019. ,2019-01-01,2019-01-31,35.29,0.00,2019-01-30,35.29,29
+208,61928,Egresos Comunes,Décimo tercer sueldo,Décimo  tercer sueldo mes de Enero/2019. ,2019-01-01,2019-01-31,35.29,0.00,2019-01-30,35.29,29
+208,61927,Egresos Comunes,Décimo cuarto sueldo,Décimo  cuarto sueldo mes de Enero/2019. ,2019-01-01,2019-01-31,32.83,0.00,2019-01-30,32.83,29
+208,61926,Egresos Comunes,Décimo cuarto sueldo,Décimo  cuarto sueldo mes de Enero/2019. ,2019-01-01,2019-01-31,32.83,0.00,2019-01-30,32.83,29
+398,61875,Egresos Comunes,Sueldos Personal,Sueldo correspondiente al mes de enero de 2019.,2019-01-01,2019-01-31,424.50,0.00,2019-01-30,424.50,29
+398,61874,Egresos Comunes,Movilización personal Urbanización,Movilización correspondiente a enero de 2019.,2019-01-01,2019-01-31,25.00,0.00,2019-01-30,25.00,29
+398,61873,Egresos Comunes,Sueldos Personal,Sueldo correspondiente al mes de enero de 2019.,2019-01-01,2019-01-31,448.02,0.00,2019-01-30,448.02,29
+398,61872,Egresos Comunes,Limpieza de áreas comunales,Limpieza de baños comunales correspondiente a enero de 2019.,2019-01-01,2019-01-31,50.00,0.00,2019-01-30,50.00,29
+398,61869,Egresos Comunes,Sueldos Personal,Sueldo correspondiente al mes de enero de 2019.,2019-01-01,2019-01-31,430.79,0.00,2019-01-30,430.79,29
+398,61853,Egresos Comunes,Servicios de Guardiania,"Servicio de vigilancia 12 horas nocturno, 2 turnos y reemplazo en garita principal de dic-2018",2019-01-01,2019-01-31,3091.66,0.00,2019-01-30,3091.66,29
+215,61832,Egresos Comunes,Conserje Tiempo parcial,SUELDO MES DE ENERO ,2019-01-01,2019-01-31,51.73,0.00,2019-01-29,51.73,28
+186,61813,Egresos Comunes,Servicios Administrativos-Año 2020,servvicios administrativos mes de enero,2019-01-01,2019-01-31,313.60,0.00,2019-01-29,313.60,28
+187,61812,Egresos Comunes,Servicios Administración,servicios administrativos mes de enero,2019-01-01,2019-01-31,291.20,0.00,2019-01-29,291.20,28
+197,61811,Egresos Comunes,Servicios Administración,servicios administrativos mes de enero,2019-01-01,2019-01-31,280.00,0.00,2019-01-29,280.00,28
+184,61810,Egresos Comunes,Servicios administrativos,servicios administrativos mes de enero,2019-01-01,2019-01-31,291.20,0.00,2019-01-29,291.20,28
+185,61806,Egresos Comunes,Servicios administrativos-AÑO 2022,servicios administrativos mes de enero ,2019-01-01,2019-01-31,291.20,0.00,2019-01-29,291.20,28
+204,61804,Egresos Comunes,Servicios Administración,servicios administrativos mes de enero,2019-01-01,2019-01-31,582.40,0.00,2019-01-29,582.40,28
+385,61773,Egresos Comunes,Póliza de Seguros,PAGO CUOTA 8-10 SEGURO DEL EDIFICIO PERIODO 2018 - 2019,2019-01-01,2019-01-31,666.31,0.00,2019-01-29,666.31,28
+389,61665,Egresos Comunes,Póliza Contra Incendios,CUOTA 2-9 SEGURO DE EDIFICIO COBERTURA AÑO 2018 - 2019,2019-01-01,2019-01-31,676.10,0.00,2019-01-29,676.10,28
+349,61539,Egresos Comunes,Suministros y materiales,Compra de rollo de felpa ,2019-01-01,2019-01-31,4.08,0.00,2019-01-17,4.08,16
+208,61522,Egresos Comunes,Honorarios Adminitrativos,Honorarios administrativos de la primera quincena del mes de Enero/2019. ,2019-01-01,2019-01-15,225.00,0.00,2019-01-28,450.00,27
+386,61519,Egresos Comunes,Movilización conserje,Movilización correspondiente a enero de 2019.,2019-01-01,2019-01-31,30.00,0.00,2019-01-28,30.00,27
+386,61518,Egresos Comunes,Sueldos Personal,Sueldo correspondiente a enero de 2019,2019-01-01,2019-01-31,236.81,0.00,2019-01-29,473.62,28
+386,61517,Egresos Comunes,Póliza de Seguros,PAGO CUOTA 9-10 SEGURO EDIFICIO RENOVACION 2018 - 2019,2019-01-01,2019-01-18,420.83,0.00,2019-01-28,420.83,27
+386,61514,Egresos Comunes,Otros Gastos,ALMACENES BOYACA. Cuota 3-3 por compras de adornos navideños para árbol de navidad y áreas comunales (dic-2018),2019-01-01,2019-01-31,30.97,0.00,2019-01-28,30.97,27
+189,61505,Egresos Comunes,Servicios Administración,servicios administrativos mes de enero 2019,2019-01-01,2019-01-31,358.40,0.00,2019-01-28,358.40,27
+189,61504,Egresos Comunes,Salario Conserjeria,alcance a sueldo mes de enero,2019-01-01,2019-01-31,192.33,0.00,2019-01-28,192.33,27
+189,61503,Egresos Comunes,Salario Conserjeria,anticipo a sueldo mes de enero,2019-01-01,2019-01-15,120.00,0.00,2019-01-28,120.00,27
+185,61502,Egresos Comunes,Salario - conserjería,ALCANCE A SUELDO MES DE ENERO,2019-01-01,2019-01-31,191.41,0.00,2019-01-29,191.41,28
+352,61496,Egresos Comunes,Sueldos Personal,SUELDO PERTENECIENTE ENERO 2019,2019-01-01,2019-01-31,372.00,0.00,2019-02-05,764.00,35
+423,61491,Egresos Comunes,Consumo de Gas Centralizado,Consumo de gas centralizado mes de enero 2019,2019-01-01,2019-01-31,397.43,0.00,2019-02-13,397.43,43
+423,61489,Egresos Comunes,Servicios de Guardianía,Seguridad y vigilancia mes de enero 2019,2019-01-01,2019-01-31,2355.00,0.00,2019-02-21,2355.00,51
+352,61487,Egresos Comunes,Sueldos Personal,SUELDO PERTENECIENTE ENERO 2019,2019-01-01,2019-01-31,421.11,0.00,2019-02-04,421.11,34
+423,61484,Egresos Comunes,Suministros y materiales,Compra de 5 sensores de movimiento,2019-01-01,2019-01-31,56.00,0.00,2019-02-20,56.00,50
+352,61482,Egresos Comunes,Sueldos Personal,SUELDO PERTENECIENTE ENERO 2019,2019-01-01,2019-01-31,246.35,0.00,2019-02-04,246.35,34
+200,64776,Egresos Comunes,Movilizacion,movilizacion mes de enero,2019-01-01,2019-01-31,70.00,0.00,2019-02-15,70.00,45
+423,61476,Egresos Comunes,Mantenimiento y construcción de Jardines,Compra de tierra negra ,2019-01-01,2019-01-31,80.00,0.00,2019-02-25,80.00,55
+423,61474,Egresos Comunes,Agua potable,Agua Enero 2019,2019-01-01,2019-01-31,563.30,0.00,2019-02-08,563.30,38
+423,61472,Egresos Comunes,Administración,Administración mes de enero 2019,2019-01-01,2019-01-31,500.00,0.00,2019-03-07,500.00,65
+211,61432,Egresos Comunes,Bonificaciones,Bonificación trabajos de mantenimientos realizados en el condominio. ,2019-01-01,2019-01-31,60.00,0.00,2019-01-28,60.00,27
+197,59020,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,73.95,0.00,2019-01-09,73.95,8
+197,59018,Egresos Comunes,Iess - Planilla Aportes,planilla del mes de diciembre,2019-01-01,2019-01-15,203.69,0.00,2019-01-09,203.69,8
+201,59933,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciiembre,2019-01-01,2019-01-15,166.76,0.00,2019-01-14,166.76,13
+201,59935,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,64.30,0.00,2019-01-14,64.30,13
+201,59936,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,110.65,0.00,2019-01-14,110.65,13
+211,61431,Egresos Comunes,Bonificaciones,Bonificación trabajos de mantenimientos realizados en el condominio. ,2019-01-01,2019-01-31,60.00,0.00,2019-01-28,60.00,27
+211,61430,Egresos Comunes,Bonificaciones,Bonificación trabajos de mantenimientos realizados en el condominio. ,2019-01-01,2019-01-31,60.00,0.00,2019-01-28,60.00,27
+167,61375,Egresos Comunes,Nomina /Conserje/,Pago conserje correspondiente al mes de Enero de 2019,2019-01-01,2019-01-31,458.30,0.00,2019-01-28,458.30,27
+384,61336,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,Cambio de valvula contadora de agua,2019-01-01,2019-01-30,886.51,0.00,2019-01-28,886.51,27
+384,61335,Egresos Comunes,Mantenimiento Sistema Contra Incendios,Cancelación mantenimiento sistema contra incendios,2019-01-01,2019-01-30,592.24,0.00,2019-01-28,592.24,27
+395,61326,Egresos Comunes,Mantenimiento Piscina,Mano de obra para cambio de contactor de la bomba de la piscina,2019-01-01,2019-01-31,95.20,0.00,2019-02-28,190.40,58
+172,61292,Egresos Comunes,Seguro Edificio,SEGURO EDIFICIO ENE- 2019 + COMISIÓN,2019-01-01,2019-01-31,255.55,0.00,2019-01-01,255.55,0
+172,61283,Egresos Comunes,Pago Internet,SERVICIO DE INTERNET ENE - 2019 + COMISION,2019-01-01,2019-01-31,24.42,0.00,2019-01-01,24.42,0
+72,61208,Egresos Comunes,Sueldos,Sueldo enero 2019,2019-01-01,2019-01-31,225.12,0.00,2019-01-28,225.12,27
+318,60003,Egresos Comunes,Servicio de Internet,Internet mes de enero 2019,2019-01-01,2019-01-10,62.27,0.00,2019-01-02,62.27,1
+318,60004,Egresos Comunes,Póliza Contra Incendios,Cuota seguro Medplaza,2019-01-01,2019-01-10,656.01,0.00,2019-01-07,656.01,6
+318,60007,Egresos Comunes,Insumos Higiénicos,"2 pacas de papel higiénico y 2 pacas de papel toalla",2019-01-01,2019-01-15,96.26,0.00,2019-01-08,96.26,7
+318,60008,Egresos Comunes,Flores Edificio ,Flores lobby principal,2019-01-01,2019-01-10,84.00,0.00,2019-01-09,84.00,8
+318,60009,Egresos Comunes,Suministros y materiales,"Reembolso canastas navideñas guardias, personal de limpiesa y administración",2019-01-01,2019-01-10,104.31,0.00,2019-01-04,104.31,3
+293,61157,Egresos Comunes,Internet,Servicio Internet mes enero 2019 (área de guardias ),2019-01-01,2019-01-31,30.80,0.00,2019-01-02,30.80,1
+401,61114,Egresos Comunes,Consumo Teléfono,CLARO. Pago cuota 10/18 equipo nuevo y plan mensual de dic/2018,2019-01-01,2019-01-31,41.84,0.00,2019-01-29,83.68,28
+379,61071,Egresos Comunes,Aporte Patronal,Reembolso por pago de aporte patronal al IEESS del empleado Segundo Chamba. En el valor está incluido el aporte patronal más la comisión del banco.,2019-01-01,2019-01-15,97.62,0.00,2019-01-21,97.62,20
+174,61056,Egresos Comunes,Consumo Energía Eléctrica,CONSUMO DE ENERGÍA ELÉCTRICA ENERO 2019 ,2019-01-01,2019-01-01,30.39,0.00,2019-01-11,30.39,10
+467,61035,Egresos Comunes,Servicio de Internet,iNTERNET MES DE ENERO 2019,2019-01-01,2019-01-31,56.00,0.00,2019-01-15,56.00,14
+467,61031,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,"1 er pago mantenimientos del edificio; bombas, generador, ductos, etc ",2019-01-01,2019-02-28,2500.00,0.00,2019-01-14,2500.00,13
+467,61030,Egresos Comunes,Señalética Edificio,Señalética estacionamientos de visita hall principal y entrada al edificio ,2019-01-01,2019-01-14,454.80,0.00,2019-01-14,454.80,13
+282,61007,Egresos Comunes,Mantenimiento y reparaciones,mano de obra y mantenimiento eléctrico de tablero de los medidores ,2019-01-01,2019-01-31,1097.60,0.00,2019-01-04,1097.60,3
+457,60989,Egresos Comunes,Mantenimiento Puerta Principal,Arreglo de reja,2019-01-01,2019-01-24,110.00,0.00,2019-01-22,110.00,21
+457,60988,Egresos Comunes,Energía Eléctrica,Pago luz comunal,2019-01-01,2019-01-24,193.11,0.00,2019-01-21,193.11,20
+447,60982,Egresos Comunes,Materiales de Limpieza,"Pintura, Limpiador de piedra, masking",2019-01-01,2019-01-24,78.94,0.00,2019-01-18,78.94,17
+318,60032,Egresos Comunes,Aromatización pasillos,Aromatización salas de espera ,2019-01-01,2019-01-10,71.68,0.00,2019-01-16,71.68,15
+318,60033,Egresos Comunes,Aromatización pasillos,Automatización lobby principal,2019-01-01,2019-01-10,77.50,0.00,2019-01-16,77.50,15
+318,60034,Egresos Comunes,Servicios de Guardiania,Servicio de vigilancia y seguridad mes de diciembre 2018,2019-01-01,2019-01-10,2400.00,0.00,2019-01-09,2400.00,8
+318,60035,Egresos Comunes,Mantenimiento y Limpieza áreas comunales,Personal de limpieza edificio medplaza mes de diciembre 2018,2019-01-01,2019-01-10,980.00,0.00,2019-01-08,980.00,7
+318,60036,Egresos Comunes,Adecuaciones áreas comunales,Pintura áreas comunales holles pasillos y baños comunales,2019-01-01,2019-04-10,2576.00,0.00,2019-04-04,2576.00,93
+447,60981,Egresos Comunes,Agua potable,Pago de agua comunal,2019-01-01,2019-01-18,255.62,0.00,2019-01-16,255.62,15
+447,60980,Egresos Comunes,Agua potable,Pago de agua comunal,2019-01-01,2019-01-18,290.42,0.00,2019-01-16,290.42,15
+384,60040,Egresos Comunes,Póliza de Seguro,Cuota 7seguro del Edificio,2019-01-01,2019-01-30,610.37,0.00,2019-01-10,610.37,9
+384,60041,Egresos Comunes,Mantenimiento y reparaciones,Compra de focos ,2019-01-01,2019-01-30,166.69,0.00,2019-01-10,166.69,9
+384,60042,Egresos Comunes,Reposición de Gastos,Reposición de gastos,2019-01-01,2019-01-30,76.36,0.00,2019-01-10,76.36,9
+318,60043,Egresos Comunes,Administración y Recepcionista,Administración y recepción  mes de Diciembre 2018,2019-01-01,2019-01-10,2200.00,0.00,2019-01-04,2200.00,3
+384,60044,Egresos Comunes,DirecTV,Servicio de televisión pagada a Enero 2019,2019-01-01,2019-01-30,984.48,0.00,2019-01-18,984.48,17
+384,60045,Egresos Comunes,Mantenimiento de Ascensor,Mantenimiento de 2 ascensores por el mes de Enero 2019,2019-01-01,2019-01-30,694.71,0.00,2019-01-18,694.71,17
+384,60046,Egresos Comunes,Servicios de Limpieza,Servicio complementario de limpieza por el mes de Enero 2019,2019-01-01,2019-01-30,799.18,0.00,2019-01-18,799.18,17
+447,60979,Egresos Comunes,Urbanización Terrazas de Cumbayá,Urbanización ,2019-01-01,2019-01-18,837.00,0.00,2019-01-15,837.00,14
+318,60048,Egresos Comunes,Mantenimiento de Ascensor,Mantenimiento ascensores  diciembre 2018,2019-01-01,2019-01-31,560.00,0.00,2019-01-04,560.00,3
+447,60978,Egresos Comunes,Monitoreo,Monitoreo ,2019-01-01,2019-01-18,201.60,0.00,2019-01-15,201.60,14
+156,60050,Egresos Comunes,Gastos Varios,Pago de  factura de direcv Enero del 2019,2019-01-01,2019-01-06,38.31,0.00,2019-01-02,38.31,1
+384,60052,Egresos Comunes,Agua potable,Prestación  de servicios Hoteleros ,2019-01-01,2019-01-30,1149.11,0.00,2019-01-18,1149.11,17
+447,60977,Egresos Comunes,Energía Eléctrica,Pago luz comunal,2019-01-01,2019-01-18,32.31,0.00,2019-01-14,32.31,13
+447,60976,Egresos Comunes,Servicios de Guardianía,Seguridad,2019-01-01,2019-01-17,600.00,0.00,2019-01-14,600.00,13
+208,59515,Egresos Comunes,Sueldos,Anticipo quincenal mes de Enero/2019. ,2019-01-01,2019-01-15,200.00,0.00,2019-01-15,200.00,14
+447,60975,Egresos Comunes,Aporte Patronal,Iess,2019-01-01,2019-01-15,108.95,0.00,2019-01-10,108.95,9
+443,60069,Egresos Comunes,Energía Eléctrica,Pago luz comunal,2019-01-01,2019-01-18,33.25,0.00,2019-01-15,33.25,14
+443,60073,Egresos Comunes,Mantenimiento de calefones,Arreglo calefón y compra de pieza,2019-01-01,2019-01-18,80.00,0.00,2019-01-16,160.00,15
+447,60974,Egresos Comunes,Administración,Administración ,2019-01-01,2019-01-15,400.00,0.00,2019-01-10,400.00,9
+443,60079,Egresos Comunes,Sueldos Personal,Quincena del  conserje,2019-01-01,2019-01-18,150.00,0.00,2019-01-17,150.00,16
+447,60973,Egresos Comunes,Mantenimiento Puerta Principal,Arreglo puerta de madera,2019-01-01,2019-01-15,250.00,0.00,2019-01-10,250.00,9
+447,60972,Egresos Comunes,Canasta Navideña,Canastas navideñas ,2019-01-01,2019-01-15,30.00,0.00,2019-01-10,30.00,9
+447,60971,Egresos Comunes,Sueldos Personal,"Sueldo, jardinería y saldo del décimo",2019-01-01,2019-01-15,702.14,0.00,2019-01-08,702.14,7
+447,60970,Egresos Comunes,Servicio de Internet,Internet,2019-01-01,2019-01-15,39.19,0.00,2019-01-02,39.19,1
+282,60954,Egresos Comunes,Mantenimiento y reparaciones,MANTENIMIENTO SISTEMA APIS DEL MES ENERO 2019,2019-01-01,2019-01-31,61.59,0.00,2019-01-18,61.59,17
+211,59513,Egresos Comunes,Sueldos,Anticipo quincenal mes de Enero/2019. ,2019-01-01,2019-01-15,175.00,0.00,2019-01-15,175.00,14
+282,60941,Egresos Comunes,Suministros y materiales,COMPRA DE SUMINISTROS DE LIMPIEZA ,2019-01-01,2019-01-31,105.15,0.00,2019-01-18,105.15,17
+282,60939,Egresos Comunes,Servicios Profesionales,PREPARACIÓN CUADRATURA Y ENVÍO DEL ANEXO RDEP 2018 DEL PERSONAL DEL EDIFICIO T1000,2019-01-01,2019-01-31,89.60,0.00,2019-01-18,89.60,17
+282,60921,Egresos Comunes,Mantenimiento y reparaciones,CONCILIACIÓN 14 DE MANTENIMIENTOS DE COMPLEJO 3000,2019-01-01,2019-01-31,524.42,0.00,2019-01-24,524.42,23
+169,60871,Egresos Comunes,Servicio de Seguridad,SEGURIDAD ENERO 2019,2019-01-01,2019-01-31,420.00,0.00,2019-02-20,420.00,50
+374,60848,Egresos Comunes,Administración,"Servicio de Administración mes de Enero 2019
+",2019-01-01,2019-01-31,280.00,0.00,2019-01-23,280.00,22
+374,60845,Egresos Comunes,Vacaciones,"Pago de vacaciones periodo 2017-2018 por 15 días
+",2019-01-01,2019-01-31,193.00,0.00,2019-01-23,386.00,22
+374,60843,Egresos Comunes,Alícuota Comité del Barrio Bellavista Alta ,"Alícuota por el mes de Agosto 2018 
+",2019-01-01,2019-01-31,150.00,0.00,2019-01-23,300.00,22
+374,60842,Egresos Comunes,Sueldos Personal,"Rol de Pagos mes de Enero 2019
+",2019-01-01,2019-01-31,389.60,0.00,2019-01-23,779.20,22
+279,60734,Egresos Comunes,Servicio de seguridad,SERVICIO DE GUARDIANIA 24H DEL 01 DE ENERO AL 31 DE ENERO DEL 2019,2019-01-01,2019-01-30,2100.00,0.00,2019-01-23,2100.00,22
+350,60547,Egresos Comunes,Mantenimiento de Generador,Compra de diesel generador ,2019-01-01,2019-01-31,11.00,0.00,2019-01-21,11.00,20
+388,60491,Egresos Comunes,Mantenimiento y construcción de Jardines,Mantenimiento jardines Dic 18,2019-01-01,2019-01-21,70.00,0.00,2019-01-21,70.00,20
+390,60212,Egresos Comunes,Fondos de Reserva,Planilla de fondo de reserva correspondiente a dic-2018,2019-01-01,2019-01-15,41.35,0.00,2019-01-15,41.35,14
+390,60211,Egresos Comunes,Aportes,Planilla de aportes patronal y personal correspondiente a Dic-2018,2019-01-01,2019-01-15,107.22,0.00,2019-01-15,107.22,14
+391,60201,Egresos Comunes,Póliza de Seguros,Cuota 9-12 póliza de seguro renovación 2018-2019,2019-01-01,2019-01-19,1208.50,0.00,2019-01-17,1208.50,16
+103,106866,Egresos Comunes,Mantenimiento Jardines,Período enero de 2019,2019-01-01,2019-01-31,33.60,0.00,2019-02-21,33.60,51
+347,64756,Egresos Comunes,Combustbles y Lubricantes,Gasolina bomba guadaña,2019-01-01,2019-01-01,8.20,0.00,2019-02-08,8.20,38
+369,74703,Egresos Comunes,Aporte Patronal,PAGO DE PLANILLAS DE APORTES FONDO DE RESERVA Y PRESTAMO ,2019-01-01,2019-01-14,249.73,0.00,2019-01-31,249.73,30
+182,65034,Egresos Comunes,Gastos Bancarios,"comision bancaria por pagos ies.agua,cnel transferencias recibidas",2019-01-01,2019-01-31,3.05,0.00,2019-01-31,3.05,30
+187,65039,Egresos Comunes,Gastos Bancarios,"comision bancaria por transferencia recibidas ,pagos iess,agua ,cnel",2019-01-01,2019-01-31,3.35,0.00,2019-01-31,3.35,30
+369,74704,Egresos Comunes,Energía Eléctrica,PAGO POR CONSUMO DE LUZ ÁREAS COMUNALES ,2019-01-01,2019-01-01,671.19,0.00,2019-01-31,671.19,30
+419,65041,Egresos Comunes,Gasto bancario,gastos bancarios enero ,2019-01-01,2019-01-31,7.26,0.00,2019-01-31,7.26,30
+369,74705,Egresos Comunes,Consumo Teléfono,CONSUMO DE TELÉFONO E INTERNET ENERO 2019,2019-01-01,2019-01-31,54.82,0.00,2019-01-31,54.82,30
+211,59512,Egresos Comunes,Sueldos,Anticipo quincenal mes de Enero/2019. ,2019-01-01,2019-01-15,150.00,0.00,2019-01-15,150.00,14
+211,59511,Egresos Comunes,Sueldos,Anticipo quincenal mes de Enero/2019. ,2019-01-01,2019-01-15,150.00,0.00,2019-01-15,150.00,14
+186,65046,Egresos Comunes,Gastos Bancarios,"comision por transferencia recibidas,pagos iess,agua,cnel",2019-01-01,2019-01-31,2.40,0.00,2019-01-31,2.40,30
+197,65047,Egresos Comunes,Gastos Bancarios,"comision bancaria por transferencia recibida pagos iess.agua,cnel",2019-01-01,2019-01-31,2.65,0.00,2019-01-31,2.65,30
+198,65049,Egresos Comunes,Gastos Bancarios,"Comision bancaria por transferencias recibidas pagos iess,agua cnel",2019-01-01,2019-01-31,2.35,0.00,2019-01-31,2.35,30
+119,67403,Egresos Comunes,Limpieza y mantenimiento,Servicios de limpieza y conserje edificio enero / 2019,2019-01-01,2019-01-31,825.00,0.00,2019-02-28,825.00,58
+299,106703,Egresos Comunes,Gastos por servicios bancarios,valor por transferencias recibidas. ,2019-01-01,2019-01-31,4.10,0.00,2019-01-31,4.10,30
+119,67432,Egresos Comunes,Póliza Seguro Edificio,Pago de seguro mes de enero 2019,2019-01-01,2019-01-31,225.25,0.00,2019-02-28,225.25,58
+469,67444,Egresos Comunes,Anticipo Sueldo,anticipo sueldo enero 2019,2019-01-01,2019-01-31,50.00,0.00,2019-01-17,50.00,16
+334,67488,Egresos Comunes,Convenio Coheco,CUOTA 13/20 CONVENIO COHECO,2019-01-01,2019-01-31,328.34,0.00,2019-05-17,328.34,136
+375,64687,Egresos Comunes,Comisiones bancarias,Débitos bancarios enero 2019,2019-01-01,2019-01-31,6.17,0.00,2019-01-31,6.17,30
+465,67647,Egresos Comunes,Servicio de Internet,PAGO POR SERVICIO DE INTERNET ENERO 2019,2019-01-01,2019-01-05,42.29,0.00,2019-01-03,42.29,2
+375,64681,Egresos Comunes,Energía Eléctrica,Consumo electricidada Enero 2019,2019-01-01,2019-01-26,54.29,0.00,2019-01-14,54.29,13
+119,66788,Egresos Comunes,Internet,Enero de 2019,2019-01-01,2019-01-31,33.45,0.00,2019-01-02,33.45,1
+282,68029,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1Q ENERO V ASENCIO ,2019-01-01,2019-01-31,143.83,0.00,2019-01-14,143.83,13
+48,89218,Egresos Comunes,Mantenimiento Ascensores,PAGO ENERO 2019,2019-01-01,2019-01-31,672.44,0.00,2019-03-30,672.44,88
+454,68231,Egresos Comunes,Servicio de Internet,Pago de Internet para cámaras del  mes enero 2019,2019-01-01,2019-01-31,50.39,0.00,2019-01-02,50.39,1
+282,68602,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1 Q ENERO F POZO ,2019-01-01,2019-01-31,252.71,0.00,2019-01-14,252.71,13
+464,66674,Egresos Comunes,Consumo Teléfono Internet,CONSUMO TELEFONICO ENERO,2019-01-01,2019-01-05,34.33,0.00,2019-01-02,34.33,1
+306,165455,Egresos Comunes,Administración,REGISTRO PROVISION GASTO ENERO 2019,2019-01-01,2019-01-31,727.54,0.00,2019-01-31,727.54,30
+334,68742,Egresos Comunes,Consumo Teléfono,"POR EL USO DE PLAN DE TELEFONÍA CELULAR A FAVOR DEL CONDOMINIO DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO DEL 2019. ",2019-01-01,2019-03-14,60.00,0.00,2019-03-14,60.00,72
+105,68956,Egresos Comunes,Servicio de Internet NETLIFE,pago de internet del mes de enero 2019,2019-01-01,2019-01-01,47.03,0.00,2019-01-02,47.03,1
+105,68961,Egresos Comunes,Comisiones Bancarias,comisiones bancarias del mes de enero del 01 al 31,2019-01-01,2019-01-31,3.30,0.00,2019-01-31,3.30,30
+464,66671,Egresos Comunes,Consumo Teléfono Internet,CONSUMO INTERNET ENERO,2019-01-01,2019-01-05,22.96,0.00,2019-01-02,22.96,1
+282,64535,Egresos Comunes,Salarios y beneficios de ley,PLANILLA -PRÉSTAMO QUIROGRAFARIOS ,2019-01-01,2019-01-31,377.74,0.00,2019-01-07,377.74,6
+423,69177,Egresos Comunes,Energía Eléctrica,Pago luz eléctrica mes de enero y febrero 2019,2019-01-01,2019-02-28,1168.24,0.00,2019-03-20,1168.24,78
+402,69181,Egresos Comunes,Comisiones bancarias,Cargos bancarios ,2019-01-01,2019-01-31,14.70,0.00,2019-01-31,14.70,30
+402,69182,Egresos Comunes,Comisiones bancarias,"Comisiones Diners Recibos 8077, 8168, 8169, 8170",2019-01-01,2019-01-31,19.62,0.00,2019-01-31,39.18,30
+282,64528,Egresos Comunes,Salarios y beneficios de ley,PLANILLA DE FONDO DE RESERVAS IEES ,2019-01-01,2019-01-31,260.70,0.00,2019-01-07,260.70,6
+282,64527,Egresos Comunes,Salarios y beneficios de ley,PLANILLA DE APORTACIONES IEES,2019-01-01,2019-01-31,1027.70,0.00,2019-01-07,1027.70,6
+282,64524,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1Q ENERO C CHOEZ ,2019-01-01,2019-01-31,137.57,0.00,2019-01-14,275.14,13
+282,64523,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1Q ENERO F SUÁREZ ,2019-01-01,2019-01-31,221.49,0.00,2019-01-14,442.98,13
+282,64521,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1Q ENERO F RODRIGUEZ ,2019-01-01,2019-01-31,170.74,0.00,2019-01-14,341.48,13
+282,64519,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1Q ENERO A ARTEAGA ,2019-01-01,2019-01-31,336.82,0.00,2019-01-14,673.64,13
+282,64518,Egresos Comunes,Salarios y beneficios de ley,pago RW 1Q ENERO C MALAVÉ ,2019-01-01,2019-01-31,177.41,0.00,2019-01-14,354.82,13
+282,64517,Egresos Comunes,Bono anual,bono anual ,2019-01-01,2019-01-31,50.00,0.00,2019-01-30,50.00,29
+282,64515,Egresos Comunes,Mantenimiento y reparaciones,mantenimiento de 2 ascensores torre 1000,2019-01-01,2019-01-31,570.40,0.00,2019-01-25,570.40,24
+374,69383,Egresos Comunes,Comisiones bancarias,Comisiones Bancarias por el mes de Enero 2019,2019-01-01,2019-01-31,0.35,0.00,2019-01-31,0.35,30
+285,69847,Egresos Comunes,COMISIONES  BANCARIAS BOLIVARIANO,CARGO DE SERVICIOS BANCARIOS POR TRANSFERENCIAS RECIBIDAS MES ENERO 2019,2019-01-01,2019-01-31,5.65,0.00,2019-01-31,5.65,30
+168,65384,Egresos Comunes,Comisiones y Servicios Bancarios,Período enero de 2019,2019-01-01,2019-01-31,2.51,0.00,2019-01-31,2.51,30
+279,70061,Egresos Comunes,Comisiones bancarias,GASTOS BANCARIOS,2019-01-01,2019-01-31,9.67,0.00,2019-01-31,9.67,30
+453,64488,Egresos Comunes,Servicio de Internet,INTERNET EDIFICIO,2019-01-01,2019-01-01,22.96,0.00,2019-01-01,22.96,0
+453,64487,Egresos Comunes,Servicio de tv pagada,TV LOBBY EDIFICIO,2019-01-01,2019-01-01,22.93,0.00,2019-01-01,22.93,0
+453,64486,Egresos Comunes,Servicio de tv pagada,TV GIMANSIO,2019-01-01,2019-01-01,22.93,0.00,2019-01-01,22.93,0
+276,70384,Egresos Comunes,Comisiones bancarias,GASTOS BANCARIOS,2019-01-01,2019-01-31,11.40,0.00,2019-01-31,21.00,30
+334,94241,Egresos Comunes,Mantenimiento de ascensores,SERVICIOS MANTENIMIENTO COHECO ENERO 2019,2019-01-01,2019-01-31,861.52,0.00,2021-03-31,861.52,820
+280,71241,Egresos Comunes,Gastos bancarios,Gastos bancarios,2019-01-01,2019-01-31,5.97,0.00,2019-01-31,5.97,30
+346,71288,Egresos Comunes,Servicios Peritaje Construcción,"Pago Internet administración  mes de enero, febrero y marzo 2019",2019-01-01,2019-03-31,117.57,0.00,2019-03-28,117.57,86
+168,65402,Egresos Comunes,Limpieza y Mantenimiento,Período enero de 2019,2019-01-01,2019-01-31,825.00,0.00,2019-01-31,825.00,30
+182,59497,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-14,83.38,13
+339,64440,Egresos Comunes,Comisiones bancarias.,COMISIÓN BANCARIA DEL MES DE ENERO 2019 ,2019-01-01,2019-01-31,6.34,0.00,2019-01-31,6.34,30
+218,85241,Egresos Comunes,"Gastos, comisiones bancarias",Comisiones Bancarias Enero 2019,2019-01-01,2019-01-31,1.20,0.00,2019-01-31,1.20,30
+47,85569,Egresos Comunes,GASTOS BANCARIOS,GASTOS BANCARIOS ENERO 2019,2019-01-01,2019-01-31,16.09,0.00,2019-01-31,16.09,30
+148,85581,Egresos Comunes,Servicios Bancarios,GASTOS BANCARIOS ENERO 2019,2019-01-01,2019-01-31,12.88,0.00,2019-01-31,12.88,30
+366,64429,Egresos Comunes,Monitoreo,SERV. DE MONITOREO CUOTA 4 DE 6 ,2019-01-01,2019-01-31,50.40,0.00,2019-01-31,50.40,30
+366,64428,Egresos Comunes,Aporte Patronal, PLANILLAS DE APORTES Y PRESTAMOS,2019-01-01,2019-01-31,426.94,0.00,2019-01-31,426.94,30
+366,64427,Egresos Comunes,Comisiones bancarias,SERVICIOS BANCARIOS DEL 01 AL 31 ENERO 2019,2019-01-01,2019-01-31,8.24,0.00,2019-01-31,8.24,30
+157,64424,Egresos Comunes,"Limpieza vidrios, siliconado",Servicios de Limpieza enero 2019,2019-01-01,2019-01-31,825.00,0.00,2019-02-15,825.00,45
+372,64422,Egresos Comunes,Comisiones bancarias,SERVICIOS BANCARIOS DEL 01 AL 31 DE ENERO 2019,2019-01-01,2019-01-31,14.59,0.00,2019-01-31,14.59,30
+372,64421,Egresos Comunes,Aporte Patronal,"PAGO PLANILLA DE APORTES, PRÉSTAMO Y FONDO DE RESERVA.",2019-01-01,2019-01-31,183.87,0.00,2019-01-31,183.87,30
+157,64420,Egresos Comunes,Mantenimiento Puerta Vehícular,Revisión y Calibración,2019-01-01,2019-01-31,30.00,0.00,2019-01-08,30.00,7
+157,64419,Egresos Comunes,Servicios Internet,Consumo enero de 2019,2019-01-01,2019-01-31,37.44,0.00,2019-01-02,37.44,1
+217,82358,Egresos Comunes,Comisiones y Gastos Bancarios,Débitos bancarios Enero 2019,2019-01-01,2019-01-31,13.62,0.00,2019-01-31,13.62,30
+157,64418,Egresos Comunes,Comisiones y Servicios Bancarios,Chequera y período enero de 2019,2019-01-01,2019-01-31,38.93,0.00,2019-01-31,38.93,30
+468,71820,Egresos Comunes,Servicio de Internet,Servicio de Internet Enero 2019,2019-01-01,2019-01-31,10.63,0.00,2019-01-14,10.63,13
+460,81688,Egresos Comunes,Comisiones bancarias,COMISIONES BANCARIAS,2019-01-01,2019-01-31,4.70,0.00,2019-01-31,4.70,30
+460,81687,Egresos Comunes,Mantenimiento Puerta Principal,"ARREGLO PUERTA DE VIDRIO TEMPLADO INGRESO, DEVOLUCIÓN REALIZADA POR GABRIELA VILLALOBOS POR ACCIDENTE DE VEHÍCULO",2019-01-01,2019-01-05,68.00,0.00,2019-01-25,68.00,24
+494,66440,Egresos Comunes,Mantenimiento de bancas y canchas,Saldo por pintura de canchas de Basket,2019-01-01,2019-01-04,125.00,0.00,2019-01-04,125.00,3
+460,81669,Egresos Comunes,Mantenimiento de Ascensor,MANTENIMIENTO ASCENSOR,2019-01-01,2019-01-05,84.00,0.00,2019-01-11,84.00,10
+494,66438,Egresos Comunes,Agua potable,Pago de agua potable de 2 facturas del mes de diciembre 2018,2019-01-01,2019-01-31,8.25,0.00,2019-02-03,16.50,33
+494,66437,Egresos Comunes,Servicio de Internet,Pago de consumo del 1-01-2019 de 2 facturas,2019-01-01,2019-02-02,61.60,0.00,2019-01-02,61.60,1
+460,81668,Egresos Comunes,Administración,SERVICIO ADMINISTRACIÓN DICIEMBRE 150 USD Y 10 USD JARDINERO,2019-01-01,2019-01-05,160.00,0.00,2019-01-18,160.00,17
+460,81667,Egresos Comunes,Suministros y materiales,FACTURAS DE NOVIEMBRE 2018 IMPRESIONES BLOCS,2019-01-01,2019-01-05,26.00,0.00,2019-01-02,26.00,1
+494,66436,Egresos Comunes,Energía Eléctrica,ND Pago de consumo de luz de 2 facturas,2019-01-01,2019-01-02,45.03,0.00,2019-01-02,45.03,1
+423,64388,Egresos Comunes,Servicios de Limpieza,Mantenimiento y Limpieza edificio Enero 2019,2019-01-01,2019-01-31,450.00,0.00,2019-03-18,450.00,76
+423,64384,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,"mANTENIMIENTO PANELES KHANIA, CAMBIO DE CABLEADO BREAKER Y CAMBIO DE MANGUERAS EXTINTORES",2019-01-01,2019-01-31,683.20,0.00,2019-05-10,683.20,129
+460,81665,Egresos Comunes,Décimo tercer sueldo,DÉCIMO TERCER SUELDO PATRICIO GUANOPATIN 2018,2019-01-01,2019-01-05,100.00,0.00,2019-01-02,100.00,1
+199,59491,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-14,166.76,13
+447,64344,Egresos Comunes,Comisiones bancarias,Comisiones enero,2019-01-01,2019-01-31,6.47,0.00,2019-01-31,6.47,30
+306,192297,Egresos Comunes,Servicios de Guardiania,sERVICIO DE SEGURIDAD,2019-01-01,2019-01-31,5205.36,0.00,2019-01-31,5205.36,30
+306,192298,Egresos Comunes,Sistema de Administración,APIS CONDOMINIOS,2019-01-01,2019-01-31,316.80,0.00,2019-01-31,316.80,30
+306,192300,Egresos Comunes,Mantenimiento Piscina,PROVISION SERVICIO,2019-01-01,2019-01-31,75.00,0.00,2019-01-04,75.00,3
+306,99843,Egresos Comunes,Comisiones bancarias,REGISTRA GASTOS BANCARIOS ENERO 2019,2019-01-01,2019-01-31,21.67,0.00,2019-01-31,21.67,30
+791,208501,Egresos Comunes,Mantenimiento de Ascensor,Mantenimiento ascensor enero 2019,2019-01-01,2019-01-31,192.49,0.00,2021-02-04,192.49,765
+184,65453,Egresos Comunes,Gastos Bancarios,"comision bancaria por transferencia recibida,pagos iess,agua,cnel",2019-01-01,2019-01-31,3.05,0.00,2019-01-31,3.05,30
+872,212015,Egresos Comunes,Servicios de Guardianía,Monitoreo sistema de seguridad enero 1 a junio 30 2019,2019-01-01,2019-01-31,235.20,0.00,2021-02-19,235.20,780
+82,361214,Egresos Comunes,COMISIONES BANCARIAS,Comisiones bancarias por pagos enero 2019,2019-01-01,2019-01-31,1.00,0.00,2019-01-31,1.00,30
+387,72974,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,Mantenimiento de bombas y generador de enero de 2019,2019-01-01,2019-01-31,67.20,0.00,2019-04-08,67.20,97
+186,59243,Egresos Comunes,uniformes,"2 pantalones, 3 camisetas, 1 gorra",2019-01-01,2019-01-31,66.00,0.00,2019-01-25,66.00,24
+271,64152,Egresos Comunes,"Débitos bancarios, costos chequeras, ND",Débitos bancarios Enero 2019,2019-01-01,2019-01-31,11.90,0.00,2019-01-31,34.37,30
+87,64142,Egresos Comunes,Gastos bancarios comisiones y chequeras,Comisiones bancarias al 31 de enero del 2019,2019-01-01,2019-01-31,12.42,0.00,2019-01-31,12.42,30
+786,219332,Egresos Comunes,Administración,Honorarios administración enero y febrero 2019,2019-01-01,2019-02-28,320.00,0.00,2021-01-14,320.00,744
+74,42031,Egresos Comunes,Seguro del Edificio,"11VA CUOTA DE PÓLIZA MES DE JULIO 2019",2019-01-01,2019-07-10,517.72,0.00,2019-07-11,517.72,191
+457,64136,Egresos Comunes,Comisiones bancarias,Comisiones enero,2019-01-01,2019-01-31,5.48,0.00,2019-01-31,5.48,30
+74,42032,Egresos Comunes,Seguro del Edificio,"12VA CUOTA DE PÓLIZA MES DE AGOSTO 2019",2019-01-01,2019-08-10,517.73,0.00,2019-08-26,517.73,237
+189,65469,Egresos Comunes,Gastos Bancarios,"Comision bancaria por transferencia recibida,pagos iess,agua,cnel",2019-01-01,2019-01-31,3.60,0.00,2019-01-31,3.60,30
+187,52272,Egresos Comunes,Salario Conserjeria,anticipo a sueldo mes de enero,2019-01-01,2019-01-15,137.00,0.00,2019-01-15,137.00,14
+187,52274,Egresos Comunes,Salario Conserjeria,alcance a sueldo mes de enero,2019-01-01,2019-01-31,174.33,0.00,2019-01-30,174.33,29
+189,55544,Egresos Comunes,Expensas PUNTACENT,Expensa mes de ENERO,2019-01-01,2019-01-31,411.45,0.00,2019-02-26,411.45,56
+185,57614,Egresos Comunes,Salario - conserjería,anticipo a sueldo  mes de enero,2019-01-01,2019-01-15,60.00,0.00,2019-01-15,180.00,14
+443,64121,Egresos Comunes,Comisiones bancarias,Comisiones enero,2019-01-01,2019-01-31,6.50,0.00,2019-01-31,6.50,30
+468,83208,Egresos Comunes,Sueldos Personal,Registro de cheques girados en Diciembre y cobrados en enero,2019-01-01,2019-01-01,3735.84,0.00,2019-01-01,3735.84,0
+297,57990,Egresos Comunes,Servicio de internet,internet enero 2018,2019-01-01,2019-01-04,39.19,0.00,2019-01-02,39.19,1
+207,66225,Egresos Comunes,Fondos de Reserva,Fondos de reserva del mes de Enero/2019,2019-01-01,2019-01-31,39.37,0.00,2019-02-26,39.37,56
+207,66223,Egresos Comunes,Fondos de Reserva Sr Mario,Fondos de reserva del mes de Enero/2019. ,2019-01-01,2019-01-31,39.37,0.00,2019-02-26,39.37,56
+42,64092,Egresos Comunes,N/D bancarias por Comision y Entrega,Comisiones Bancarias por el mes de Enero 2019,2019-01-01,2019-01-31,6.60,0.00,2019-01-31,6.60,30
+334,58154,Egresos Comunes,Servicio de Internet,SERVICIOS DE INTERNET ENERO DEL 2019,2019-01-01,2019-01-02,35.83,0.00,2019-01-02,35.83,1
+325,58162,Egresos Comunes,Alquiler de Parqueaderos/Bodegas,Alquiler de Parqueadero 25 y Bodega 03 al Departamento 104 enero 2019,2019-01-01,2019-01-10,55.00,0.00,2019-01-03,55.00,2
+182,58188,Egresos Comunes,Salario Conserjeria,alcanca mes de enero,2019-01-01,2019-01-31,181.54,0.00,2019-01-30,181.54,29
+368,64074,Egresos Comunes,Aporte Patronal,"PAGO PLANILLAS DE APORTES
+",2019-01-01,2019-01-31,410.40,0.00,2019-01-31,410.40,30
+368,64072,Egresos Comunes,Comisiones bancarias,SERVICIOS BANCARIOS AL 31 DE ENERO 2019,2019-01-01,2019-01-31,14.94,0.00,2019-01-31,14.94,30
+182,58189,Egresos Comunes,Salario Conserjeria,anticipo sueldo mes de enero,2019-01-01,2019-01-15,60.00,0.00,2019-01-17,60.00,16
+187,58191,Egresos Comunes,IESS fondo de reserva,planilla luz diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-09,32.15,8
+187,58206,Egresos Comunes,Iess-Planillas Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-09,83.38,8
+177,79199,Egresos Comunes,Comisiones Bancarias,Comisión Bancaria Enero 2019 ,2019-01-01,2019-01-31,6.18,0.00,2019-01-31,6.18,30
+187,59246,Egresos Comunes,uniformes,"2 pantalones, 3 camisetas, 1 gorra",2019-01-01,2019-01-31,66.00,0.00,2019-01-25,66.00,24
+198,66101,Egresos Comunes,Iess - Planilla Fondo de Reserva,fONDOS DE RESERVA MES DE ENERO,2019-01-01,2019-01-31,32.82,0.00,2019-02-28,65.64,58
+463,66038,Egresos Comunes,Mantenimiento preventivo ascensores,MANTENIMIENTO ASCENSOR SEPTIEMBRE 2018,2019-01-01,2019-01-01,478.93,0.00,2019-02-22,478.93,52
+463,66036,Egresos Comunes,Servicios de Guardianía,SERVICIO DE GUARDIANIA DICIEMBRE 2018,2019-01-01,2019-01-01,2800.00,0.00,2019-02-22,2800.00,52
+297,58316,Egresos Comunes,Energía eléctrica,Energía eléctrica diciembre 2018 ,2019-01-01,2019-01-03,1622.11,0.00,2019-01-03,1622.11,2
+215,64014,Egresos Comunes,Junta de Agua Potable - Manglaralto,planilla mes de enero,2019-01-01,2019-01-31,390.00,0.00,2019-02-13,390.00,43
+285,58531,Egresos Comunes,GUARDIAS PARTE EXTERNA DEL CONDOMINIO,CONTRATO DE PERSONAL PARTE EXTERNA DEL CONDOMINIO 29 - 30 - 31 DE DICIEMBRE DEL 2018 Y 1 DE ENERO DEL 2019,2019-01-01,2019-01-01,120.00,0.00,2018-12-28,120.00,-4
+285,58532,Egresos Comunes,GUARDIAS PARTE EXTERNA DEL CONDOMINIO,CONTRATO DE PERSONAL PARTE EXTERNA DEL CONDOMINIO 30 - 31 DE DICIEMBRE DEL 2018,2019-01-01,2019-01-01,80.00,0.00,2018-12-28,80.00,-4
+285,58533,Egresos Comunes,GUARDIAS PARTE EXTERNA DEL CONDOMINIO,CONTRATO DE PERSONAL PARTE EXTERNA DEL CONDOMINIO 29 - 30 - 31 DE DICIEMBRE DEL 2018,2019-01-01,2019-01-01,110.00,0.00,2018-12-28,110.00,-4
+452,65535,Egresos Comunes,Sistema Administración,SUMINISTROS LIMPIEZA EDIFICIO,2019-01-01,2019-01-31,42.92,0.00,2019-01-31,42.92,30
+222,63958,Egresos Comunes,N-D emitidas por el banco,Costo chequera y Comisiones Bancarias mes de Enero 2019,2019-01-01,2019-01-31,40.60,0.00,2019-01-31,40.60,30
+211,63878,Egresos Comunes,Ascensor,Mantenimiento del ascensor mes de Enero/2019. ,2019-01-01,2019-01-31,213.40,0.00,2019-02-11,213.40,41
+325,58687,Egresos Comunes,Servicios de Guardiania,Reemplazo de vacaciones al conserje (3 días) del 26 al 28 de diciembre de 2018.,2019-01-01,2019-01-10,60.00,0.00,2019-01-07,60.00,6
+334,58806,Egresos Comunes,Sistema de Administración,SERVICIOS DE SISTEMA ADMINISTRATIVO ENERO DEL 2019,2019-01-01,2019-01-02,49.90,0.00,2019-01-08,49.90,7
+334,58809,Egresos Comunes,Reposición de caja chica,INGRESO A CAJA CHICA DICIEMBRE DEL 2019,2019-01-01,2019-01-31,200.00,0.00,2019-01-08,200.00,7
+287,58816,Egresos Comunes,Mantenimiento y reparaciones,Compra Pintura Ploma fachadas + insumos,2019-01-01,2019-01-31,162.57,0.00,2019-01-07,162.57,6
+287,58817,Egresos Comunes,Mantenimiento y reparaciones,Compra grasero + accesorio para puertas ingreso,2019-01-01,2019-01-31,24.90,0.00,2019-01-07,24.90,6
+287,58818,Egresos Comunes,Mantenimiento y reparaciones,Pago aplicativo APIS,2019-01-01,2019-01-31,61.59,0.00,2019-01-07,61.59,6
+287,58819,Egresos Comunes,Seguridad,Pago servicio seguridad diciembre 2018,2019-01-01,2019-01-31,2177.49,0.00,2019-01-07,2177.49,6
+287,58820,Egresos Comunes,Suministros y materiales,Transporte de banca Tumbaco - Conjunto,2019-01-01,2019-01-31,25.00,0.00,2019-01-07,25.00,6
+287,58822,Egresos Comunes,Suministros y materiales,Compra de adornos para el pase del Niño y evento Navidad.,2019-01-01,2019-01-31,38.38,0.00,2019-01-04,38.38,3
+334,63753,Egresos Comunes,Aporte Patronal,PLANILLAS DE AJUSTES DE APORTACIÓN MES DE DICIEMBRE DEL 2018 Y ENERO DEL 2019,2019-01-01,2019-02-28,322.71,0.00,2019-02-11,322.71,41
+334,63751,Egresos Comunes,Alimentación personal,ENERO 2019,2019-01-01,2019-01-31,65.00,0.00,2019-02-05,65.00,35
+334,63750,Egresos Comunes,Fondos de reserva,ENERO 2019,2019-01-01,2019-01-31,32.82,0.00,2019-02-05,32.82,35
+334,63748,Egresos Comunes,Décimo cuarto sueldo,ENERO 2019,2019-01-01,2019-01-31,35.02,0.00,2019-02-05,35.02,35
+350,65785,Egresos Comunes,Mantenimiento de Ascensor,Mantenimiento ascensor mes de enero.,2019-01-01,2019-02-28,243.50,0.00,2019-02-24,243.50,54
+334,63747,Egresos Comunes,Décimo tercer sueldo,ENERO 2019,2019-01-01,2019-01-31,32.83,0.00,2019-02-05,32.83,35
+258,65593,Egresos Comunes,Gastos Bancarios,"comision bancaria por transferencia recibida,pagos iess,agua ,cnel",2019-01-01,2019-01-31,2.85,0.00,2019-01-31,2.85,30
+334,63746,Egresos Comunes,Sueldos Personal,"SUELDO $394, FERIADO $26.27 MENOS ANTICIPO $196 APORTACIONES $39.72",2019-01-01,2019-01-31,184.56,0.00,2019-02-05,184.56,35
+334,63744,Egresos Comunes,Alimentación personal,ENERO 2019,2019-01-01,2019-01-31,65.00,0.00,2019-02-05,65.00,35
+334,63743,Egresos Comunes,Décimo cuarto sueldo,ENERO 2019,2019-01-01,2019-01-31,32.83,0.00,2019-02-05,32.83,35
+334,63742,Egresos Comunes,Décimo tercer sueldo,ENERO 2019,2019-01-01,2019-01-31,35.02,0.00,2019-02-05,35.02,35
+334,63741,Egresos Comunes,Sueldos Personal,"SUELDO $394, FERIADO $26.27. MENOS ANTICIPO $196, APORTACIONES $39.72. ",2019-01-01,2019-01-31,184.56,0.00,2019-02-05,184.56,35
+203,65603,Egresos Comunes,Gastos Bancarios,"Comision bancaria por transferencia recibida ,pago iess,agua,cnel",2019-01-01,2019-01-31,2.65,0.00,2019-01-31,2.65,30
+334,63739,Egresos Comunes,Alimentación personal,ENERO 2019,2019-01-01,2019-01-31,25.00,0.00,2019-02-05,25.00,35
+334,63738,Egresos Comunes,Décimo cuarto sueldo,ENERO 2019,2019-01-01,2019-01-31,32.83,0.00,2019-02-05,32.83,35
+334,63737,Egresos Comunes,Décimo tercer sueldo,ENERO 2019,2019-01-01,2019-01-31,50.13,0.00,2019-02-05,50.13,35
+167,63736,Egresos Comunes,Comisiones bancarias,Comisiones Bancarias por el mes de Enero 2019,2019-01-01,2019-01-31,11.55,0.00,2019-01-31,11.55,30
+389,58838,Egresos Comunes,Mantenimiento Piscina,"Mantenimiento y limpieza de piscina del mes de dic-2018, kit de químicos, aspiradora de 8 ruedas",2019-01-01,2019-01-15,182.56,0.00,2019-01-08,182.56,7
+186,58866,Egresos Comunes,Salario Conserjeria,anticipo a sueldo mes de enero,2019-01-01,2019-01-31,60.00,0.00,2019-01-15,60.00,14
+287,58881,Egresos Comunes,Suministros y materiales,Pago Final banca para área de juegos,2019-01-01,2019-01-31,141.12,0.00,2019-01-07,141.12,6
+345,78098,Egresos Comunes,Comisiones bancarias,Comisiones Bancarias Enero 2019 ,2019-01-01,2019-01-31,5.17,0.00,2019-01-31,5.17,30
+186,88363,Egresos Comunes,FONDO COMUN DE RESERVA - AÑO 2019,PROVISION FONDO COMUN DE RESERVA -AÑO 2019 - Art. 31 del REGLAMENTO DE LA LEY DE PROPIEDAD HORIZONTAL 5%,2019-01-01,2019-12-31,816.00,816.00,,0,
+223,78064,Egresos Comunes,Gastos Bancarios,Débitos bancarios enero 2019,2019-01-01,2019-01-31,12.09,0.00,2019-01-31,12.09,30
+211,58918,Egresos Comunes,IESS Aportaciones,"Planilla de aportaciones del mes de Diciembre/2018, más costo bancario. ",2019-01-01,2019-01-15,372.54,0.00,2019-01-08,372.54,7
+211,58920,Egresos Comunes,Iess Extensión conyuge,"Planilla del mes de Diciembre/2018, extensión de salud por cónyuges. ",2019-01-01,2019-01-15,19.25,0.00,2019-01-08,19.25,7
+398,58921,Egresos Comunes,Aportes IESS,Pago planillas de aportes dic-2018 y fondos de reserva dic-2018,2019-01-01,2019-01-15,293.81,0.00,2019-01-08,293.81,7
+215,65656,Egresos Comunes,Gastos Bancarios,"Comision bancaria transferencia recibida,pagos iess,agua ,cnel,comision cheque exterior",2019-01-01,2019-01-31,8.04,0.00,2019-01-31,8.04,30
+204,65625,Egresos Comunes,Gastos Bancarios,"comision bancaria ppor transferencias recibidas,pagos iess,agua,cnel",2019-01-01,2019-01-31,3.85,0.00,2019-01-31,3.85,30
+185,65644,Egresos Comunes,Gastos Bancarios,"Comision por transferencia recibida,pagos iess,agua,cnel",2019-01-01,2019-01-31,2.30,0.00,2019-01-31,2.30,30
+398,58922,Egresos Comunes,Agua potable,EPMAPS. Planilla de consumo SSGG correspondiente a ene-2019,2019-01-01,2019-01-18,3.62,0.00,2019-01-08,3.62,7
+200,65630,Egresos Comunes,Gastos Bancarios,"Comision bancaria por transferencia recibida,pagos iess,agua,cnel",2019-01-01,2019-01-31,2.05,0.00,2019-01-31,2.05,30
+398,58923,Egresos Comunes,Agua potable,EPMAPS. Planilla de consumo SSGG correspondiente a enero-2019,2019-01-01,2019-01-18,12.51,0.00,2019-01-08,12.51,7
+188,65634,Egresos Comunes,Gastos Bancarios,"comision bancaria por transferencia recibidas,pagos iess,agua,cnel",2019-01-01,2019-01-31,2.70,0.00,2019-01-31,2.70,30
+217,76003,Egresos Comunes,Sueldos Unificados Adm.,PAGO 13 DÍAS DE VACACIONES PERIODO 2017-2018,2019-01-01,2019-01-31,181.48,0.00,2019-01-30,181.48,29
+217,75997,Egresos Comunes,Sueldos Unificados Adm.,PAGO NOMINA JARDINERÍA CORRESPONDIENTE AL MES DE ENERO 2019,2019-01-01,2019-01-31,414.32,0.00,2019-01-30,414.32,29
+184,58977,Egresos Comunes,Iess-Aportes mensuales,planilla mes de diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-09,83.38,8
+463,63596,Egresos Comunes,Gastos comisiones bancarias,COMISIÓN BANCARIA DEL MES DE ENERO 2019 ,2019-01-01,2019-01-31,28.71,0.00,2019-01-31,28.71,30
+184,58979,Egresos Comunes,Iess- Planilla de Fondos de Reserva,planilla mes diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-09,32.15,8
+184,58980,Egresos Comunes,Iess-Planillas Prestamo Quirografario,planilla mes de diciembre,2019-01-01,2019-01-15,44.21,0.00,2019-01-09,44.21,8
+182,58981,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-09,32.15,8
+182,58983,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,115.23,0.00,2019-01-09,115.23,8
+217,75992,Egresos Comunes,Sueldos Unificados Adm.,PAGO NOMINA JARDINERÍA CORRESPONDIENTE AL MES DE ENERO 2019,2019-01-01,2019-01-31,414.32,0.00,2019-01-30,414.32,29
+207,63543,Egresos Comunes,Sueldo Pedro Yagual,"Sueldo del mes de Enero/2019, horas extras. ",2019-01-01,2019-01-31,428.05,0.00,2019-02-18,428.05,48
+207,63542,Egresos Comunes,Sueldo Sr Mario Yagual F,"Sueldo del mes de Enero/2019, horas extras. ",2019-01-01,2019-01-31,364.00,0.00,2019-02-18,478.00,48
+346,64948,Egresos Comunes,Limpieza y Mantenimiento,Servicios del mes de enero 2019,2019-01-01,2019-01-31,825.00,0.00,2019-02-19,1650.00,49
+365,63541,Egresos Comunes,Comisiones bancarias,"SERVICIOS BANCARIOS AL 31 DE ENERO 2019
+",2019-01-01,2019-01-31,0.90,0.00,2019-01-31,0.90,30
+365,63540,Egresos Comunes,Comisiones bancarias,"SERVICIOS BANCARIOS AL 31 DE ENERO 2019
+",2019-01-01,2019-01-31,10.71,0.00,2019-01-31,10.71,30
+465,66954,Egresos Comunes,Administración,HONORARIOS ADMINISTRATIVOS ENERO 2019,2019-01-01,2019-01-31,710.00,0.00,2020-05-07,710.00,492
+365,63539,Egresos Comunes,Aporte Patronal,"PAGO PLANILLAS DE APORTES MES DE DICIEMBRE 2018
+",2019-01-01,2019-01-31,201.85,0.00,2019-01-31,201.85,30
+217,75991,Egresos Comunes,Sueldos Unificados Adm.,PAGO NOMINA JARDINERÍA CORRESPONDIENTE AL MES DE ENERO 2019,2019-01-01,2019-01-31,379.00,0.00,2019-01-30,379.00,29
+186,58998,Egresos Comunes,Iess-Planillas Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,32.80,0.00,2019-01-09,32.80,8
+198,59496,Egresos Comunes,Salario Conserjeria,anticipo a sueldo mes de enero,2019-01-01,2019-01-15,40.00,0.00,2019-01-15,40.00,14
+186,59000,Egresos Comunes,IESS fondo de reserva,planilla mes de diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-09,32.15,8
+198,59495,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de dicimbre,2019-01-01,2019-01-15,72.87,0.00,2019-01-14,72.87,13
+186,59001,Egresos Comunes,Iess-Planillas Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,104.71,0.00,2019-01-09,104.71,8
+74,63510,Egresos Comunes,Comisiones Bancarias,Comisiones bancarias al 31 de enero del 2019,2019-01-01,2019-01-31,6.15,0.00,2019-01-31,6.15,30
+211,59123,Egresos Comunes,Servicios Prestados,Servicios prestados para ejecución de mantenimientos. ,2019-01-01,2019-01-15,159.96,0.00,2019-01-10,159.96,9
+188,59006,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-10,32.15,9
+188,59007,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,47.48,0.00,2019-01-10,47.48,9
+463,82203,Egresos Comunes,Mantenimiento preventivo ascensores,MANTENIMIENTO ASCENSOR ENERO 2019,2019-01-01,2019-01-31,478.93,0.00,2019-05-31,478.93,150
+188,59008,Egresos Comunes,Iess - Planilla Aportes,planilla mes diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-10,83.38,9
+189,59010,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-09,83.38,8
+189,59012,Egresos Comunes,planilla Fondos de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-09,32.15,8
+148,63452,Egresos Comunes,Mantenimiento de Assensores,"MANTENIMIENTO DICIEMBRE 2018, ENERO 2019 Y 11 DISPOSITIVOS: 71, 32-2, 87, 57, 45, 61, 12, 24, 28-2",2019-01-01,2019-02-08,1024.42,0.00,2019-02-07,1024.42,37
+204,59238,Egresos Comunes,uniformes,"6 pantalones, 9 camisetas, 3 gorras",2019-01-01,2019-01-31,198.00,0.00,2019-01-25,198.00,24
+67,175614,Egresos Comunes,SEGURO,CUOTA 6/8,2019-01-01,2019-01-15,72.95,0.00,2019-01-10,146.37,9
+318,63447,Egresos Comunes,Mantenimiento y Limpieza áreas comunales,Mantenimiento y Limpieza Edificio medplaza mes de Enero 2019,2019-01-01,2019-01-31,980.00,0.00,2019-02-05,980.00,35
+318,63446,Egresos Comunes,Servicios de Guardiania,Seguridad y vigilancia mes de Enero 2019,2019-01-01,2019-01-31,2400.00,0.00,2019-02-05,2400.00,35
+207,74314,Egresos Comunes,Honorarios Administrativos,Honorarios Administrativos del mes de Enero del 2019.,2019-01-01,2019-01-31,180.00,0.00,2019-04-17,180.00,106
+217,75956,Egresos Comunes,Servicio de Transporte Desalojos de Bolqueta Adm.,PAGO DESALOJO DE JARDINERÍA CORRESPONDIENTE AL MES DE ENERO 2019,2019-01-01,2019-01-31,700.00,0.00,2019-01-30,700.00,29
+67,175631,Egresos Comunes,GASTOS BANCARIOS,SERVICIOS BANCARIOS ENERO 2019,2019-01-01,2019-01-31,1.92,0.00,2019-01-31,1.92,30
+217,75954,Egresos Comunes,Mantenimientos Varios a Instalaciones Adm.,PAGO MANTENIMIENTO LEVANTAMIENTO DE ADOQUINES REDUCTOR DE VELOCIDAD.,2019-01-01,2019-01-31,289.00,0.00,2019-01-30,289.00,29
+318,63443,Egresos Comunes,Administración y Recepcionista,Administración mes de Enero 2019,2019-01-01,2019-01-31,2200.00,0.00,2019-02-05,2200.00,35
+217,75946,Egresos Comunes,Mantenimiento Sistemas Eléctricos y Plomeria Adm.,RETIRO DE LUCES Y ADORNOS NAVIDEÑOS CHEQUEO DE LUCES EN EL PARQUE,2019-01-01,2019-01-31,70.00,0.00,2019-01-22,70.00,21
+392,63415,Egresos Comunes,Sueldos Personal,Abono sueldo enero de 2019,2019-01-01,2019-01-15,200.00,0.00,2019-01-31,200.00,30
+392,63398,Egresos Comunes,Aportes IESS,Pago aportes IESS correspondiente a Dic-2018,2019-01-01,2019-01-15,84.99,0.00,2019-01-31,84.99,30
+217,75938,Egresos Comunes,Servicio de Guardianias Adm.,PAGO SEGURIDAD CORRESPONDIENTE AL MES ENERO 2019,2019-01-01,2019-01-31,8126.80,0.00,2019-01-31,8126.80,30
+334,139667,Egresos Comunes,Servicios Contables,"SERVICIOS CONTABLES DEL AÑO 2019. ENTREGA DE ESTADOS FINANCIEROS Y ANEXOS, CONCILIACIONES.",2019-01-01,2019-12-31,672.00,0.00,2020-03-11,672.00,435
+217,75935,Egresos Comunes,Mantenimiento de Sistemas de Ingreso Adm.,PAGO SISTEMA AUCONSIS CORRESPONDIENTE AL MES ENERO 2019,2019-01-01,2019-01-31,213.33,0.00,2019-01-23,426.66,22
+86,63395,Egresos Comunes,Varios,Comisiones bancarias al 31 de enero del 2019,2019-01-01,2019-01-31,4.64,0.00,2019-01-31,4.64,30
+119,67003,Egresos Comunes,Comisiones y Servicios Bancarios,Período enero de 2019,2019-01-01,2019-01-31,9.60,0.00,2019-01-31,9.60,30
+217,75931,Egresos Comunes,Otros,COMPRA DE 20 TAGS,2019-01-01,2019-01-31,178.71,0.00,2019-01-10,178.71,9
+217,75928,Egresos Comunes,Aportes Patronales al IESS Adm.,PAGO DE PLANILLAS IESS DICIEMBRE 2018,2019-01-01,2019-01-31,271.50,0.00,2019-01-10,271.50,9
+217,75926,Egresos Comunes,Impuestos y Obligaciones Tributarias Adm.,PAGO DE IMPUESTOS 2018 FORMULARIO 103,2019-01-01,2019-01-31,204.02,0.00,2019-01-21,204.02,20
+217,75925,Egresos Comunes,Impuestos y Obligaciones Tributarias Adm.,"30% BIENES 100% HONORARIOS, ARRENDAMIENTOS. CORRESPONDIENTE AL MES DE DICIEMBRE 2019",2019-01-01,2019-01-31,38.29,0.00,2019-01-21,38.29,20
+201,230536,Egresos Comunes,Iess - Planilla Aportes,IESS PLANILLA APORTES MES ENERO-2019.,2019-01-01,2019-02-15,170.20,0.00,2019-02-13,170.20,43
+201,230538,Egresos Comunes,Iess - Planilla Fondo de Reserva,IESS PLANILLA FONDO DE RESERVA MES ENERO-2019.,2019-01-01,2019-02-15,65.64,0.00,2019-02-13,65.64,43
+201,230539,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,IESS PLANILL PRESTAMO QUIROGRAFARIOS MES ENERO 2019.,2019-01-01,2019-02-15,103.61,0.00,2019-02-13,103.61,43
+169,63348,Egresos Comunes,Gastos Bancarios y Chequera,Costo chequera mas comisiones bancarias al 31 de enero del 2019,2019-01-01,2019-01-31,34.76,0.00,2019-01-31,34.76,30
+217,75924,Egresos Comunes,Energía Eléctrica Comunal Adm.,EEQ MATERIALES ENERO 2019,2019-01-01,2019-01-31,101.14,0.00,2019-01-30,101.14,29
+484,73557,Egresos Comunes,Mantenimiento Piscina,MANTENIMIENTO PISCINA MES DE DICIEMBRE 2018,2019-01-01,2019-01-31,134.40,0.00,2019-01-23,134.40,22
+535,121727,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,MANTENIMIENTO TRIMESTRAL EDIFICIO RFS PERIODO ENERO 2019,2019-01-01,2019-01-31,131.04,131.04,,0,
+445,63341,Egresos Comunes,Préstamo Quirografario,PAGO FONDOS DE RESERVA JAIRO PINTO,2019-01-01,2019-01-15,38.63,0.00,2019-01-14,38.63,13
+445,63324,Egresos Comunes,Comisiones bancarias,COMISIONES BANCARIAS ENERO,2019-01-01,2019-01-31,1.50,0.00,2019-01-07,1.50,6
+103,121790,Egresos Comunes,Seguridad Social,Período enero de 2019,2019-01-01,2019-01-31,364.11,0.00,2019-02-14,364.11,44
+103,121792,Egresos Comunes,Prestamos personales I.E.S.S,Período enero de 2019,2019-01-01,2019-01-31,51.48,0.00,2019-02-14,51.48,44
+270,63319,Egresos Comunes,Luz,"Pago Empresa eléctrica correspondiente al mes de enero 2019 mas 0, 60 centavos de comisión bancaria.",2019-01-01,2019-01-31,15.06,0.00,2019-01-28,15.06,27
+103,111098,Egresos Comunes,Servicios Administración,Período enero de 2019,2019-01-01,2019-01-31,308.00,0.00,2019-02-05,308.00,35
+334,63288,Egresos Comunes,Sueldos Personal,"SUELDO 398.33, H.EXTR. $130.08 H. SPL. $73.17 MENOS ANTICIPO $260, PREST. QUIROGRAFARIO $59.58 APORTACIONES $59.58",2019-01-01,2019-01-31,225.16,0.00,2019-02-05,225.16,35
+334,63287,Egresos Comunes,Alimentación personal,ENERO DEL 2019,2019-01-01,2019-01-31,25.00,0.00,2019-02-05,25.00,35
+103,121868,Egresos Comunes,Salarios y beneficios de ley,Período enero de 2019,2019-01-01,2019-01-31,555.71,0.00,2019-02-06,555.71,36
+103,121869,Egresos Comunes,Salarios y beneficios de ley,Período enero de 2019,2019-01-01,2019-01-31,550.93,0.00,2019-02-05,550.93,35
+334,63286,Egresos Comunes,Décimo cuarto sueldo,ENERO DEL 2019,2019-01-01,2019-01-31,32.83,0.00,2019-02-05,32.83,35
+103,121871,Egresos Comunes,Salarios y beneficios de ley,Período enero de 2019,2019-01-01,2019-01-31,550.93,0.00,2019-02-05,550.93,35
+103,121872,Egresos Comunes,Salarios y beneficios de ley,Período enero de 2019,2019-01-01,2019-01-31,461.63,0.00,2019-02-05,461.63,35
+334,63285,Egresos Comunes,Décimo tercer sueldo,ENERO 2019,2019-01-01,2019-01-31,51.51,0.00,2019-02-05,51.51,35
+334,63284,Egresos Comunes,Sueldos Personal,"SUELDO DIC. 2018 $394, H.EXTR. $131.33 H. SPL. $66.49 FERIADO $26.27 MENOS ANTICIPO $260, APORTACIONES $58.91, PRESTAMO QUIR. $32.38",2019-01-01,2019-01-31,267.30,0.00,2019-02-05,267.30,35
+443,59132,Egresos Comunes,Sueldos Personal,Sueldo mas plan del tlf,2019-01-01,2019-01-10,268.52,0.00,2019-01-04,268.52,3
+334,63283,Egresos Comunes,Alimentación personal,ENERO DEL 2019,2019-01-01,2019-01-31,25.00,0.00,2019-02-05,25.00,35
+352,59340,Egresos Comunes,Agua potable,PAGO DE SERVICIO DE AGUA EAPA MEDIDOR COMUNAL,2019-01-01,2019-01-15,16.00,0.00,2019-01-14,16.00,13
+334,63282,Egresos Comunes,Décimo cuarto sueldo,ENERO DEL 2019,2019-01-01,2019-01-31,32.83,0.00,2019-02-05,32.83,35
+334,63281,Egresos Comunes,Décimo tercer sueldo,ENERO DEL 2019,2019-01-01,2019-01-31,52.34,0.00,2019-02-05,52.34,35
+103,121954,Egresos Comunes,Internet y Línea telefónica,Consumo línea telefónica y consumo internet enero de 2019,2019-01-01,2019-01-31,50.00,0.00,2019-02-05,50.00,35
+103,121955,Egresos Comunes,Reposición caja chica,Período enero de 2019,2019-01-01,2019-01-31,50.00,0.00,2019-02-05,50.00,35
+119,63262,Egresos Comunes,Mantenimiento Ascensor,Ascensor enero 2019,2019-01-01,2019-01-31,233.05,0.00,2019-01-31,233.05,30
+217,179732,Egresos Comunes,Comisiones y Gastos Bancarios,Comisiones Bancarias correspondiente al mes de enero 2019,2019-01-01,2019-01-31,66.43,0.00,2019-01-31,66.43,30
+119,63259,Egresos Comunes,Servicio de Administración,Administración enero 2019,2019-01-01,2019-01-31,506.24,0.00,2019-01-31,506.24,30
+297,59546,Egresos Comunes,Sistema de Administración,Mantenimiento del Sistema de ApisCondominios correspondiente al mes de Enero 2019,2019-01-01,2019-01-20,61.59,0.00,2019-01-17,61.59,16
+119,63258,Egresos Comunes,Vigilancia y Seguridad,Seguridad enero 2019,2019-01-01,2019-01-31,2200.00,0.00,2019-01-31,2200.00,30
+119,63253,Egresos Comunes,Agua Comunal,Pago agua comunal edf. enero 2019,2019-01-01,2019-01-31,329.72,0.00,2019-02-28,584.29,58
+119,63252,Egresos Comunes,Luz Comunal,Garantia medidor enero 2019,2019-01-01,2019-01-31,382.12,0.00,2019-01-31,382.12,30
+346,64933,Egresos Comunes,Comisiones y Servicios Bancarios,Período enero de 2019,2019-01-01,2019-01-31,6.50,0.00,2019-01-31,6.50,30
+349,63248,Egresos Comunes,Agua potable,PAGO AGUA ,2019-01-01,2019-01-31,261.48,0.00,2019-01-30,261.48,29
+385,59548,Egresos Comunes,Suministros de Limpieza,Compra de insumos de limpieza adicionales para baños comunales y de garita.,2019-01-01,2019-01-31,148.79,0.00,2019-01-15,148.79,14
+204,63245,Egresos Comunes,Conserjeria Eventual,"1-2  ENERO 20192-  2-3 FEBRERO 2019",2019-01-01,2019-02-03,60.00,0.00,2019-02-06,60.00,36
+282,73611,Egresos Comunes,Urbanización,ALICUOTA POR MANT DE URBANOZACIÓN ENERO 2019,2019-01-01,2019-01-31,587.46,0.00,2019-04-08,587.46,97
+168,63213,Egresos Comunes,Servicios Administrativos,Período enero de 2019,2019-01-01,2019-01-31,308.00,0.00,2019-01-31,308.00,30
+74,80567,Egresos Comunes,Mantenimiento Ascensores,Mantenimiento Enero 2019,2019-01-01,2019-01-31,254.26,0.00,2019-07-11,254.26,191
+172,122842,Egresos Comunes,Gastos Administrativo,Teléfono para llamadas administración,2019-01-01,2019-01-11,10.00,0.00,2019-01-19,10.00,18
+103,122905,Egresos Comunes,Comisiones Bancarias,Período enero de 2019,2019-01-01,2019-01-31,3.14,0.00,2019-01-31,3.14,30
+103,122911,Egresos Comunes,Salarios y beneficios de ley,Autorizado por junta directiva y descontado a 5 meses mediante rol de pagos,2019-01-01,2019-01-31,1000.00,0.00,2019-02-05,1000.00,35
+103,122935,Egresos Comunes,Agua Comunal,Consumo dic 14 hasta 13 ene de 2019,2019-01-01,2019-01-31,30.80,0.00,2019-02-14,30.80,44
+103,122945,Egresos Comunes,Salarios y beneficios de ley,Reemplazo Abel Romero,2019-01-01,2019-01-31,249.53,0.00,2019-02-05,249.53,35
+217,75922,Egresos Comunes,Agua Potable Comunal Adm.,AGUA COMUNAL Y ALCANTARILLADO MES ENERO 2019,2019-01-01,2019-01-31,321.35,0.00,2019-01-18,321.35,17
+83,63207,Egresos Comunes,Gastos Bancarios,COMISIONES BANCARIAS  AL 31-01-2019,2019-01-01,2019-01-31,3.32,0.00,2019-01-31,3.32,30
+217,75920,Egresos Comunes,Agua Potable Comunal Adm.,AGUA COMUNAL Y ALCANTARILLADO MES ENERO 2019,2019-01-01,2019-01-31,9.17,0.00,2019-01-18,9.17,17
+306,63186,Egresos Comunes,Impuestos,SERVICIOS ADMINISTRATIVOS ENERO 2019,2019-01-01,2019-01-31,885.70,0.00,2019-02-06,1202.02,36
+198,59494,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,86.64,0.00,2019-01-14,86.64,13
+199,59493,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,54.21,0.00,2019-01-14,108.42,13
+199,59492,Egresos Comunes,Iess - Planilla Fondo de Reserva,planila mes de diciembre,2019-01-01,2019-01-15,32.15,0.00,2019-01-14,64.30,13
+217,75918,Egresos Comunes,Teléfonos Convencionales Adm.,CNT CONSUMO DE TELÉFONO ENERO 2019,2019-01-01,2019-01-31,26.25,0.00,2019-01-09,26.25,8
+258,59072,Egresos Comunes,IESS - Planillas Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,344.63,0.00,2019-01-09,344.63,8
+185,59490,Egresos Comunes,Iess-Planilla Prestamo Qrirografario,planilla mes de diciembre,2019-01-01,2019-01-15,105.36,0.00,2019-01-14,105.36,13
+346,63019,Egresos Comunes,Luz Comunal,Pago luz comunal  enero 2019,2019-01-01,2019-01-31,711.38,0.00,2019-01-31,711.38,30
+217,75915,Egresos Comunes,Energía Eléctrica Comunal Adm.,EEQ. COMUNAL ENERO 2019,2019-01-01,2019-01-31,64.68,0.00,2019-01-08,64.68,7
+215,59071,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,125.99,0.00,2019-01-09,125.99,8
+215,59070,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,64.30,0.00,2019-01-09,64.30,8
+103,125107,Egresos Comunes,Sistema Administración,Período enero de 2019,2019-01-01,2019-01-31,67.20,0.00,2019-01-11,67.20,10
+346,62995,Egresos Comunes,Servicios de Administración,Asministración enero 2019,2019-01-01,2019-01-31,500.00,0.00,2019-01-31,500.00,30
+103,125111,Egresos Comunes,Póliza Seguro Edificio,Período enero de 2019,2019-01-01,2019-01-31,442.87,0.00,2019-04-17,442.87,106
+346,62993,Egresos Comunes,Agua comunal,Pago Agua eneroo 2019,2019-01-01,2019-01-31,194.70,0.00,2019-01-31,194.70,30
+346,62992,Egresos Comunes,Servicios de Guardiania,Pago seguridad enero 2019,2019-01-01,2019-01-31,2200.00,0.00,2019-01-31,2200.00,30
+346,62991,Egresos Comunes,Mantenimiento de Ascensor,Ascencor 1 enero 2018,2019-01-01,2019-01-31,248.95,0.00,2019-01-31,248.95,30
+215,59068,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,332.00,0.00,2019-01-09,332.00,8
+377,62990,Egresos Comunes,Servicio Guardianía,"Seguridad enero 2019, por asamblea 2017 se decidió pagar la mitad de la alícuota de la urbanización hasta que se arregle el ingreso electrónico, una vez se solucione se cancelara el valor total ($20,00) ($360) por todo el edificio",2019-01-01,2019-01-31,180.00,0.00,2019-12-26,180.00,359
+204,59061,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,255.39,0.00,2019-01-09,255.39,8
+204,59060,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,64.30,0.00,2019-01-09,64.30,8
+103,126165,Egresos Comunes,Seguridad Social,Período enero de 2020,2019-01-01,2019-01-31,364.11,0.00,2020-02-14,728.22,409
+377,62989,Egresos Comunes,Servicio Guardianía,"Seguridad diciembre 2018, por asamblea 2017 se decidió pagar la mitad de la alícuota de la urbanización hasta que se arregle el ingreso electrónico, una vez se solucione se cancelara el valor total ($20,00) ($360) por todo el edificio",2019-01-01,2019-02-28,180.00,0.00,2019-11-28,180.00,331
+204,59059,Egresos Comunes,Iess - Planilla Aportes,planilla mes diciembre,2019-01-01,2019-01-15,250.14,0.00,2019-01-09,250.14,8
+203,59058,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes diciembre,2019-01-01,2019-01-15,107.88,0.00,2019-01-09,107.88,8
+201,234461,Egresos Comunes,Servicios Administracion-2019,SERVICIOS ADMINISTRACON MES ENERO-2019.,2019-01-01,2019-01-31,300.00,0.00,2020-01-31,300.00,395
+203,59057,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,128.60,0.00,2019-01-09,128.60,8
+203,59055,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,333.52,0.00,2019-01-09,333.52,8
+42,59053,Egresos Comunes,Costo de Internet,Servicio de Internet por el mes de Enero 2019,2019-01-01,2019-01-01,64.13,0.00,2018-12-18,64.13,-14
+377,62988,Egresos Comunes,Servicio Guardianía,"Seguridad noviembre 2018, por asamblea 2017 se decidió pagar la mitad de la alícuota de la urbanización hasta que se arregle el ingreso electrónico, una vez se solucione se cancelara el valor total ($20,00) ($360) por todo el edificio",2019-01-01,2019-02-28,180.00,0.00,2019-10-29,180.00,301
+207,128944,Egresos Comunes,Vacaciones,Vacaciones del periodo 2018-2019,2019-01-01,2019-01-31,280.92,280.92,,0,
+346,62984,Egresos Comunes,Póliza Contra Incendios,Pago póliza enero 2019,2019-01-01,2019-01-31,197.57,0.00,2019-01-31,197.57,30
+207,128945,Egresos Comunes,Vacaciones,Vacaciones del periodo 2018-2019,2019-01-01,2019-01-31,441.64,441.64,,0,
+348,62981,Egresos Comunes,Comisiones y Servicios Bancarios,Período enero de 2019,2019-01-01,2019-01-31,6.90,0.00,2019-01-31,13.50,30
+445,62980,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,"MANTENIMIENTO CISTERNA, LIMPIEZA Y EVACUACIÓN POZO.",2019-01-01,2019-01-31,180.00,0.00,2019-01-30,180.00,29
+172,117592,Egresos Comunes,IESS,IESS ENERO 2019,2019-01-01,2019-01-15,59.64,0.00,2019-01-29,59.64,28
+200,59029,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,60.33,0.00,2019-01-09,60.33,8
+200,59028,Egresos Comunes,Iess - Planilla Fondo de Reserva,planilla mes de diciembre,2019-01-01,2019-01-15,64.30,0.00,2019-01-09,64.30,8
+200,59027,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,166.76,0.00,2019-01-09,166.76,8
+352,59026,Egresos Comunes,Servicio de Internet,PAGO DE SERVICIO DE INTERNET GPON ENERO 2019,2019-01-01,2019-01-09,62.72,0.00,2019-01-09,62.72,8
+370,131275,Egresos Comunes,Mantenimiento de Ascensor,MANTENIMIENTO DE ASCENSORES NOVIEMBRE 2018,2019-01-01,2019-01-01,262.08,0.00,2019-01-10,262.08,9
+445,62979,Egresos Comunes,Mantenimiento de Ascensor,PAGO FACTURAS PENDIENTES ASCENSORES INTERNACIONALES POR MANTENIMIENTO,2019-01-01,2019-01-31,500.00,0.00,2019-01-29,500.00,28
+445,62975,Egresos Comunes,Cerco eléctrico,CUOTA 1/9 CERCO ELÉCTRICO,2019-01-01,2019-01-31,253.15,0.00,2019-01-22,253.15,21
+365,62971,Egresos Comunes,Servicios de Guardiania,"SERVICIO DE SEGURIDAD MES DE ENERO 2019
+",2019-01-01,2019-01-31,2000.00,0.00,2019-01-31,2000.00,30
+443,59133,Egresos Comunes,Consumo de Gas Centralizado,Gas comunal,2019-01-01,2019-01-10,180.00,0.00,2019-01-04,180.00,3
+443,59134,Egresos Comunes,Mantenimiento Instalaciones de Gas,Trabajo y material de fuga de gas,2019-01-01,2019-01-10,80.00,0.00,2019-01-04,80.00,3
+87,100987,Egresos Comunes,Liquidación ,LIQUIDACION,2019-01-01,2019-01-31,1829.36,0.00,2020-07-22,1829.36,568
+87,100988,Egresos Comunes,Liquidación ,LIQUIDACION,2019-01-01,2019-01-31,1543.32,0.00,2020-05-05,1543.32,490
+198,59023,Egresos Comunes,Iess - Planilla Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,201.47,0.00,2019-01-09,201.47,8
+443,59140,Egresos Comunes,Agua potable,Consumo agua comunal,2019-01-01,2019-01-18,158.69,0.00,2019-01-10,158.69,9
+454,64872,Egresos Comunes,Agua potable,PAGO DE 2 PLANILLAS DE AGUA FACTURA NOV  A DIC 001-012-003974850  ,2019-01-01,2019-01-15,75.81,0.00,2019-01-15,75.81,14
+334,62957,Egresos Comunes,Fondos de reserva,FONDOS DE RESERVA ENERO DEL 2019,2019-01-01,2019-01-31,52.32,0.00,2019-02-05,52.32,35
+334,62956,Egresos Comunes,Sueldos Personal,"SUELDO DIC. 2018 $398.33, H.EXTR. $130 H. SPL. $73.20. FERIADO $26.56 MENOS ANTICIPO $260, APORTACIONES $59.35",2019-01-01,2019-01-31,308.74,0.00,2019-02-05,308.74,35
+282,59363,Egresos Comunes,Salarios y beneficios de ley,PAGO RW 1Q ENERO L GONZABAY ,2019-01-01,2019-01-15,251.58,0.00,2019-01-14,251.58,13
+197,59021,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,168.28,0.00,2019-01-09,168.28,8
+385,59550,Egresos Comunes,Mantenimiento de Bombas y Equipo Hidroneumátic,"Mano de obra para cambio de contactores quemados y chequeo de bombas de agua potable, cambio de relay termico.",2019-01-01,2019-01-31,268.80,0.00,2019-01-15,268.80,14
+334,62954,Egresos Comunes,Comisiones bancarias,COMISIONES BANCARIAS ENERO DEL 2019,2019-01-01,2019-01-31,7.40,0.00,2019-01-31,7.40,30
+217,75914,Egresos Comunes,Energía Eléctrica Comunal Adm.,EEQ. CONSUMO DEL MES DE ENERO 2019,2019-01-01,2019-01-31,8.82,0.00,2019-01-08,8.82,7
+157,62938,Egresos Comunes,Mantenimiento Ascensores,Pago ascencores mes enero 2019,2019-01-01,2019-01-31,540.06,0.00,2019-01-31,540.06,30
+157,62933,Egresos Comunes,Póliza seguro edificio,Pago seguro edf. mes febrero 2019,2019-01-01,2019-02-28,371.90,0.00,2019-01-31,371.90,30
+157,62930,Egresos Comunes,Aromatizantes Ascensor,Pago aromatizantes de 2 acensores,2019-01-01,2019-01-31,25.54,0.00,2019-01-01,25.54,0
+157,62926,Egresos Comunes,Luz Comunal,Pago luz comunal mes enero 2019,2019-01-01,2019-01-31,1266.69,0.00,2019-01-31,1266.69,30
+103,107060,Egresos Comunes,Mantenimiento Ascensores,Período enero de 2019,2019-01-01,2019-01-31,426.16,0.00,2019-02-19,426.16,49
+157,62925,Egresos Comunes,Seguridad y guardiania,Pago de seguridad enero 2019,2019-01-01,2019-01-31,2200.00,0.00,2019-01-31,2200.00,30
+157,62922,Egresos Comunes,Servicios Administración,Pago administración enero 2019,2019-01-01,2019-01-31,616.00,0.00,2019-01-31,616.00,30
+157,62921,Egresos Comunes,Agua Comunal,Pago de agua comunal enero 2019,2019-01-01,2019-01-31,400.27,0.00,2019-01-31,400.27,30
+341,101139,Egresos Comunes,Agua potable,Consumo de agua enero 2019,2019-01-01,2019-01-31,141.82,0.00,2019-01-31,141.82,30
+341,101140,Egresos Comunes,Consumo Teléfono,Consumo telefónico enero 2019,2019-01-01,2019-01-31,176.89,0.00,2019-01-31,176.89,30
+217,74674,Egresos Comunes,Internet Adm.,SETEL CORRESPONDIENTE AL MES DE ENERO 2019,2019-01-01,2019-01-31,53.65,0.00,2019-01-02,53.65,1
+393,65013,Egresos Comunes,Servicios de Guardiania,Condominio de San Antonio correspondiente a enero 2019,2019-01-01,2019-01-31,780.00,0.00,2019-01-31,780.00,30
+208,59568,Egresos Comunes,Eventual,Servicios prestados por feriado de fin de año. ,2019-01-01,2019-01-15,92.80,0.00,2019-01-15,92.80,14
+389,59569,Egresos Comunes,Mantenimiento de Jardines,"Compra de abrazaderas, manguera, uniones y llave de paso para riego de jardineras de PB.",2019-01-01,2019-01-15,41.03,0.00,2019-01-15,41.03,14
+341,101142,Egresos Comunes,Comisiones bancarias,Comisiones bancarias enero 2019,2019-01-01,2019-01-31,13.62,0.00,2019-01-31,13.62,30
+217,75913,Egresos Comunes,Internet Adm.,SETEL SERVICIO DE ENERO 2019,2019-01-01,2019-01-31,36.57,0.00,2019-01-02,36.57,1
+217,75912,Egresos Comunes,Internet Adm.,SERVICIO DE INTERNET CORRESPONDIENTE AL MES DE ENERO 2019,2019-01-01,2019-01-31,53.65,0.00,2019-01-02,53.65,1
+318,62844,Egresos Comunes,Servicios Legales,Protocolización de Administración y Nombramientos,2019-01-01,2019-01-31,92.67,0.00,2019-02-04,92.67,34
+270,62796,Egresos Comunes,Desalojo Basura,Desalojo de Escombros y basura enero 2019,2019-01-01,2019-01-31,100.00,0.00,2019-01-31,100.00,30
+367,62733,Egresos Comunes,Comisiones bancarias,"SERVICIOS BANCARIOS AL 31 DE ENERO/2019.
+",2019-01-01,2019-01-31,4.66,0.00,2019-01-31,4.66,30
+367,62731,Egresos Comunes,Aporte Patronal,"PAGO PLANILLA DE APORTES Y PRÉSTAMO.
+
+",2019-01-01,2019-01-16,246.35,0.00,2019-01-31,246.35,30
+423,62718,Egresos Comunes,Suministros de Oficina,Impresiones Asamblea ,2019-01-01,2019-01-31,28.49,0.00,2019-02-06,28.49,36
+423,62717,Egresos Comunes,Cafetería,Compra de bocaditos papas galletas cafe azucar colas agua para la Asamblea,2019-01-01,2019-01-15,21.06,0.00,2019-02-06,21.06,36
+423,62716,Egresos Comunes,Energía Eléctrica,Pago servicio de luz eléctrica,2019-01-01,2019-01-15,637.79,0.00,2019-02-05,637.79,35
+189,59014,Egresos Comunes,Iess - Planilla Prestamos Quirografarios,planilla mes de diciembre,2019-01-01,2019-01-15,44.78,0.00,2019-01-09,44.78,8
+185,59489,Egresos Comunes,Iess-Planillas Aportes,planilla mes de diciembre,2019-01-01,2019-01-15,83.38,0.00,2019-01-14,83.38,13
+185,59488,Egresos Comunes,Iess-Planillas Fondos de Reserva,Planilla mes de diciembre,2019-01-01,2019-01-15,32.16,0.00,2019-01-14,32.16,13
+344,62651,Egresos Comunes,Consumo de Gas Centralizado,PAGO CONSUMO GAS ,2019-01-01,2019-01-31,72.06,0.00,2019-01-31,72.06,30
+446,62633,Egresos Comunes,Suministros y materiales,"COMPRA DE FOCOS PARQUEADEROS Y HALLES, COMPRA DE DISCO PARA PUERTA E IMPERMEABILIZANTE",2019-01-01,2019-01-31,100.00,0.00,2019-01-28,100.00,27
+446,62630,Egresos Comunes,Sueldos Personal,PAGO SUELDO DICIEMBRE 2018,2019-01-01,2019-01-05,190.00,0.00,2019-01-25,190.00,24
+185,59589,Egresos Comunes,Movilizacion,movilizacion mes de enero,2019-01-01,2019-01-31,90.00,0.00,2019-01-15,270.00,14
+446,62629,Egresos Comunes,Comisiones bancarias,COSTO DE CHEQUERA,2019-01-01,2019-01-31,30.24,0.00,2019-01-17,30.24,16
